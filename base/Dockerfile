@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER Jesse Rosenberger
+MAINTAINER Ronen Verdi <r0nv3r@gmail.com>
 
 ENV METEORD_DIR /opt/meteord
 COPY scripts $METEORD_DIR
